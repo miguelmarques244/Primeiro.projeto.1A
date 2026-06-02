@@ -1,0 +1,17 @@
+body{
+    background-color: #FFD400;
+}
+h1{
+    color: #00C68D;
+    font-size: 60px;
+    text-align: center;
+}
+p{
+    color: #FF0052;
+    font-size: 40px;
+    text-align: center;
+}
+img{
+    width: 60%;
+    margin-right: 600px ;
+}
